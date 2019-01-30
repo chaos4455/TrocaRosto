@@ -18,7 +18,7 @@ def landmarks_by_face__(image):
     params = {
         'api_key': 'sua chave aqui',
         'api_secret': 'seu segrego aqui',
-
+```        
 
 # Exemplos e resultados:
 
