@@ -2,7 +2,7 @@
 
 Objetivo:
 
-- Realizar a identificação e troca de rosto em imagens através de duas imagens, uma oridem, outra de destino.
+- Realizar a identificação e troca de rosto em imagens através de duas imagens, uma origem, outra de destino.
 
 - Acha que pode acrescentar algo interessante, fazer alguma melhoria ou correção? Fique a vontade!
 
