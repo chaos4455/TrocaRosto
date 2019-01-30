@@ -37,7 +37,5 @@ def landmarks_by_face__(image):
 - Updates:
 
 30/01/2019 05:22
-
 Feito upload inicial do projeto. 
 
-- Este projeto não é 100 % original. 
