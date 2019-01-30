@@ -17,7 +17,7 @@ def landmarks_by_face__(image):
     url = 'https://api-us.faceplusplus.com/facepp/v3/detect'
     params = {
         'api_key': 'sua chave aqui',
-        'api_secret': 'seu segrego aqui',
+        'api_secret': 'seu segredo aqui',
 ```        
 
 # Exemplos e resultados:
