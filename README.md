@@ -1,0 +1,1 @@
+﻿Execute o comando faceswap.py origem.jpg destino.jpg
