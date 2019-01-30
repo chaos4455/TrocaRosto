@@ -8,7 +8,7 @@ Objetivo:
 
 - Como rodar a aplicação? ﻿Execute o comando faceswap.py origem.jpg destino.jpg e isso vai gerar uma imagem chamada resultado.jpg
 
-- Devo fazer mais alguma coisa? Sim! Mude o arquivo "arquivo", localizado aqui >> [shape_predictor_68_face_landmarks.dat](https://www.bb.com.br/pbb/pagina-inicial/ajude-brumadinho) para o caminho "C:\shape_predictor_68_face_landmarks.dat\shape_predictor_68_face_landmarks.dat"
+- Devo fazer mais alguma coisa? Sim! Mude o arquivo "shape_predictor_68_face_landmarks.dat" para o caminho "C:\shape_predictor_68_face_landmarks.dat\shape_predictor_68_face_landmarks.dat"
 
 - Abra o arquivo "/core/recognizer.py " e altere as linha de 63 a 67 com os dados obtidos no site: faceplusplus.com conforme a instrução.
 
