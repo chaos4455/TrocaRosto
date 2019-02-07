@@ -3,9 +3,6 @@
 Objetivo:
 
 - Realizar a identificação e troca de rosto em imagens através de duas imagens, uma origem, outra de destino.
-
-- Acha que pode acrescentar algo interessante, fazer alguma melhoria ou correção? Fique a vontade!
-
 - Como rodar a aplicação? ﻿Execute o comando faceswap.py origem.jpg destino.jpg e isso vai gerar uma imagem chamada resultado.jpg
 
 - Devo fazer mais alguma coisa? Sim! Mude o arquivo "shape_predictor_68_face_landmarks.dat" para o caminho "C:\shape_predictor_68_face_landmarks.dat\shape_predictor_68_face_landmarks.dat"
@@ -32,7 +29,7 @@ def landmarks_by_face__(image):
 - Ronaldo Obama ou Obama Gaúcho
 ![](https://github.com/chaos4455/TrocaRosto/blob/master/Exemplos/Ronaldo%20Obama.jpg?raw=true)
 
-
+# Acha que pode acrescentar algo interessante, fazer alguma melhoria ou correção? Fique a vontade!
 
 - Updates:
 
